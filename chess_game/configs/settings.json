@@ -1,0 +1,21 @@
+{
+    "window": {
+        "width": 800,
+        "height": 800,
+        "title": "Шахматы - Лабораторная работа №3"
+    },
+    "board": {
+        "cell_size": 80,
+        "light_color": [240, 217, 181],
+        "dark_color": [181, 136, 99],
+        "highlight_color": [0, 255, 0, 128]
+    },
+    "game": {
+        "max_recordings": 10
+    },
+    "sound": {
+        "move_volume": 0.7,
+        "capture_volume": 0.8,
+        "music_volume": 0.3
+    }
+}
