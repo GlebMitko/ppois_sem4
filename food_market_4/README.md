@@ -88,4 +88,27 @@
 | `main.py` | Выбор режима (CLI или GUI) |
 | `tests.py` | Unit-тесты для бизнес-логики |
 
+## 🚀 Запуск программы
+
+### 1. Скачайте проект
+git clone https://github.com/ВАШ_НИК/food_market_4.git
+cd food_market_4
+### 2. Установите зависимости
+pip install -r requirements.txt
+или:
+pip install PyQt5
+### 3. Запустите программу
+
+Windows:
+python main.py
+macOS / Linux:
+python3 main.py
+### 4. Выберите режим работы
+
+После запуска появится меню:
+1. CLI
+2. GUI
+- 1 — консольная версия
+- 2 — графический интерфейс
+
 

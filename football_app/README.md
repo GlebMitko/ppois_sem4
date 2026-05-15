@@ -118,3 +118,20 @@
   </player>
   ...
 </players>
+```
+
+## 🚀 Запуск программы (Лабораторная работа №2)
+
+### 1. Скачайте проект
+git clone https://github.com/ВАШ_НИК/football_app.git
+cd football_app
+### 2. Установите зависимости
+pip install -r requirements.txt
+или:
+pip install tkcalendar
+### 3. Запустите программу
+
+Windows:
+python main.py
+macOS / Linux:
+python3 main.py

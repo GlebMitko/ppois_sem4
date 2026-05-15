@@ -126,3 +126,20 @@
         "music_volume": 0.3
     }
 }
+```
+
+## 🚀 Запуск игры (Лабораторная работа №3)
+
+### 1. Скачайте проект
+git clone https://github.com/ВАШ_НИК/chess_game.git
+cd chess_game
+### 2. Установите зависимости
+pip install -r requirements.txt
+или:
+pip install pygame
+### 3. Запустите игру
+
+Windows:
+python main.py
+macOS / Linux:
+python3 main.py
